@@ -3,3 +3,7 @@ def mph2fps(mph):
 
 def myhello():
     print("Konichi-wa")
+def myhello():
+    print ("hello world")
+    
+    
